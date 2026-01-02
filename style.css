@@ -1,0 +1,27 @@
+.inline-span {
+    background-color: aqua;
+    display: block;
+    width: 200px;
+    height: 50px;
+}
+.block-div {
+    background-color: brown;
+    display: inline;
+    text-align: center;
+    padding: 20px;
+}
+.inline-span2 {
+    background-color: orchid;
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    margin: 10px 20px;
+    padding: 20px;
+}
+.block-div2 {
+   background-color: burlywood;
+   display: inline-block;
+   width: 150px;
+   height: 50px;
+   justify-content: space-between;
+}
